@@ -1,0 +1,14 @@
+description: null
+github_branch: PIC18F2550v02A
+github_description: null
+github_repo: PIC18F2550v02
+github_url: https://github.com/mlab-modules/PIC18F2550v02
+homepage: false
+images:
+- doc/img/PIC18F2550v02A_top_small.jpg
+- doc/img/PIC18F2550v02A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: PIC18F2550v02
+updated: '2023-09-17T11:05:08.071677+00:00'
